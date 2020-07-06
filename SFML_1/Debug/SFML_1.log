@@ -1,0 +1,9 @@
+﻿  Ball.cpp
+  Main.cpp
+D:\Cpp_Projects_and_Learning_Files-master\Cpp_Projects_and_Learning_Files-master\Cpp_Learning SFML\SFML1P\SFML_1\Ball.h(6,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Paddle.cpp
+D:\Cpp_Projects_and_Learning_Files-master\Cpp_Projects_and_Learning_Files-master\Cpp_Learning SFML\SFML1P\SFML_1\Main.cpp(1,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Score.cpp
+D:\Cpp_Projects_and_Learning_Files-master\Cpp_Projects_and_Learning_Files-master\Cpp_Learning SFML\SFML1P\SFML_1\Paddle.h(1,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
+D:\Cpp_Projects_and_Learning_Files-master\Cpp_Projects_and_Learning_Files-master\Cpp_Learning SFML\SFML1P\SFML_1\Score.h(1,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
